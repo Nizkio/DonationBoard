@@ -1,5 +1,5 @@
 --[[
- 
+ -- A simplified way of viewing the corescript, you can fork this and make changes then paste it in the existing core via roblox studio. (make sure to remove the current code that is in the core.)
 	Author @Nizkio 
 	Thanks to @VibeNemo & @twinqle for the original model
 	Last updated: 01/23/2023
